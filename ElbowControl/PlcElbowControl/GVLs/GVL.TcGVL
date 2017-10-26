@@ -7,7 +7,7 @@
 	EL6_22Bout_PC1	AT %Q*	: KL6outData22b;
 	RxBuffer1: COMBuffer;
 	TxBuffer1: COMBuffer;
-	JIAODU: REAL;(*单位 度*)
+	JIAODU	AT %Q* : REAL;(*单位 度*)
 	JIAOSUDU: REAL;(*单位 度*)
 	JIAOJIASUDU: REAL;(*单位 度*)
 	//往工控机存数据

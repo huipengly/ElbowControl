@@ -33,4 +33,6 @@
 
 # Vistual Studio files
 *.sdf
+*.opensdf
+*..project.~u
 ipch

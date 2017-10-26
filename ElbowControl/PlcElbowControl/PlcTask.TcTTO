@@ -5,6 +5,15 @@
     <CycleTime>10000</CycleTime>
     <Priority>20</Priority>
     <PouCall>
+      <Name>WRITEFILE</Name>
+    </PouCall>
+    <PouCall>
+      <Name>Fast</Name>
+    </PouCall>
+    <PouCall>
+      <Name>SerialRecieve</Name>
+    </PouCall>
+    <PouCall>
       <Name>MAIN</Name>
     </PouCall>
     <TaskFBGuid>{27cbbf5a-f0a8-4e66-8343-1418d493d6e7}</TaskFBGuid>
