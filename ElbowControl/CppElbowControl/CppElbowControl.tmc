@@ -11,9 +11,9 @@
     </Group>
   </Groups>
   <Modules>
-    <Module GUID="{1f5d3434-3f9e-49fc-a2ff-11c9ab656b16}" Group="C++">
+    <Module GUID="{a039ffa3-dba9-4f0e-8c4f-4c5121053e4b}" Group="C++">
       <Name>CModule1</Name>
-      <CLSID ClassFactory="CppElbowControl">{1f5d3434-3f9e-49fc-a2ff-11c9ab656b16}</CLSID>
+      <CLSID ClassFactory="CppElbowControl">{a039ffa3-dba9-4f0e-8c4f-4c5121053e4b}</CLSID>
       <Licenses>
         <License>
           <LicenseId>{304D006A-8299-4560-AB79-438534B50288}</LicenseId>
@@ -82,7 +82,7 @@
           <Symbol>
             <Name>Data</Name>
             <BaseType GUID="{18071995-0000-0000-0000-000000000008}">UDINT</BaseType>
-          </Symbol><Symbol><Name>Angle</Name><BaseType GUID="{18071995-0000-0000-0000-00000000000d}">REAL</BaseType></Symbol>
+          </Symbol><Symbol><Name>Angle</Name><BaseType GUID="{18071995-0000-0000-0000-00000000000d}">REAL</BaseType></Symbol><Symbol><Name>PlcTimer</Name><BaseType GUID="{18071995-0000-0000-0000-00000000000d}">REAL</BaseType></Symbol>
         </DataArea>
         <DataArea>
           <AreaNo AreaType="OutputSrc">1</AreaNo>
@@ -99,7 +99,7 @@
           <Symbol>
             <Name>Data</Name>
             <BaseType GUID="{18071995-0000-0000-0000-000000000008}">UDINT</BaseType>
-          </Symbol>
+          </Symbol><Symbol><Name>m1Int</Name><BaseType GUID="{18071995-0000-0000-0000-000000000006}">INT</BaseType></Symbol><Symbol><Name>m2Int</Name><BaseType GUID="{18071995-0000-0000-0000-000000000006}">INT</BaseType></Symbol><Symbol><Name>m3Int</Name><BaseType GUID="{18071995-0000-0000-0000-000000000006}">INT</BaseType></Symbol>
         </DataArea>
       </DataAreas>
       <InterfacePointers>

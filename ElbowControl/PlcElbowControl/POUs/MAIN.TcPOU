@@ -3,10 +3,12 @@
   <POU Name="MAIN" Id="{5e41a432-1af8-448c-b68b-d77c20fa80f3}" SpecialFunc="None">
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
+	t AT %Q*: REAL := 0;
+	tip : REAL := 0.01;
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[]]></ST>
+      <ST><![CDATA[t := t + tip;]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>

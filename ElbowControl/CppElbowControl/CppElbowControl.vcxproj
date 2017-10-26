@@ -36,7 +36,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Elbow.h" />
     <ClInclude Include="Module1.h" />
+    <ClInclude Include="PID_Position.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="TcPch.h" />
     <ClInclude Include="CppElbowControlClassFactory.h" />
@@ -46,7 +48,13 @@
     <ClInclude Include="CppElbowControlServices.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Elbow.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|TwinCAT RT (x86)'">NotUsing</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="Module1.cpp" />
+    <ClCompile Include="PID_Position.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|TwinCAT RT (x86)'">NotUsing</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="TcPch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|TwinCAT UM (x86)'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|TwinCAT RT (x86)'">Create</PrecompiledHeader>
@@ -93,7 +101,7 @@
     </Midl>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{b9bd16a4-4a0f-4e3f-ab90-b42b240ca29d}</ProjectGuid>
+    <ProjectGuid>{b9f9f596-f1f6-4b86-bc15-f0cbe5fc4065}</ProjectGuid>
     <RootNamespace>CppElbowControl</RootNamespace>
     <Keyword>Win32Proj</Keyword>
   </PropertyGroup>
@@ -172,6 +180,9 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|TwinCAT RT (x86)'">
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|TwinCAT RT (x86)'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+    </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|TwinCAT UM (x64)'">
   </ItemDefinitionGroup>

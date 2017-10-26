@@ -15,7 +15,7 @@ VAR
 	J3: REAL:=0;
 	W1:REAL:=0;
 	W2:REAL:=0;
-	t_tip:LREAL:=0.01;
+	t_tip:REAL:=0.01;
 END_VAR]]></Declaration>
     <Implementation>
       <ST><![CDATA[//读取编码器的数值

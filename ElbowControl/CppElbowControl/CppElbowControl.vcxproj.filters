@@ -2,19 +2,19 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{36b9375e-6733-4eb3-83e3-e82cd9bb6809}</UniqueIdentifier>
+      <UniqueIdentifier>{c2c002d8-0cbc-4d38-8d82-0f78ab46677e}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{d8434633-72cc-4060-b8c6-4a8763537c10}</UniqueIdentifier>
+      <UniqueIdentifier>{28170dba-68ec-448e-99cf-dbc75d92f312}</UniqueIdentifier>
     </Filter>
     <Filter Include="TwinCAT UM Files">
-      <UniqueIdentifier>{45e39c7b-e815-4b68-911f-80a81e781b38}</UniqueIdentifier>
+      <UniqueIdentifier>{7d383cd1-1011-4bf1-920d-f48f0683e30a}</UniqueIdentifier>
     </Filter>
     <Filter Include="TwinCAT RT Files">
-      <UniqueIdentifier>{1af7cbcf-279f-4948-b57d-a38eb59353bf}</UniqueIdentifier>
+      <UniqueIdentifier>{47235bfb-593b-4ef2-9e3e-5419dda0d571}</UniqueIdentifier>
     </Filter>
     <Filter Include="TMC Files">
-      <UniqueIdentifier>{c38ba293-4b9e-48b7-8cb0-0cb588d71357}</UniqueIdentifier>
+      <UniqueIdentifier>{5952aba0-748f-486c-8572-3c63b3600da3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -42,6 +42,12 @@
     <ClInclude Include="Module1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PID_Position.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Elbow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TcPch.cpp">
@@ -60,6 +66,12 @@
       <Filter>TwinCAT RT Files</Filter>
     </ClCompile>
     <ClCompile Include="Module1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PID_Position.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Elbow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

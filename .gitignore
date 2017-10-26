@@ -36,3 +36,7 @@
 *.opensdf
 *..project.~u
 ipch
+
+# beckhoff files
+_CompileInfo
+*.compileinfo
