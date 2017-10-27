@@ -5,6 +5,8 @@
 #include "CppElbowControlInterfaces.h"
 #include "PID_Position.h"
 #include "Elbow.h"
+#include "Cylinder.h"
+#include "MyAdd.h"
 
 class CModule1 
 	: public ITComObject
@@ -55,10 +57,15 @@ protected:
 	// TODO: Custom variable
 	UINT m_counter;
 	float timer;	//plc时间
+	const float Pi;
 	//float angle;	//编码器角度
 	//float radian;	//编码器角度转换弧度值
 	//float SetRad;	//角度给定值
 	float SetAngle;	//角度给定值
 	PID_Position PID4Elbow;
 	Elbow elbow;
+
+	float SetPosition;	//角度给定值
+	PID_Position PID4Cylinder;
+	Cylinder cylinder;
 };

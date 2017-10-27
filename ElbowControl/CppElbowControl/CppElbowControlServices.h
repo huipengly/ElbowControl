@@ -24,6 +24,7 @@ typedef struct _Module1Parameter
 	double data3;
 } Module1Parameter, *PModule1Parameter;
 
+#pragma pack(push,1)
 typedef struct _Module1Inputs
 {
 	ULONG Value;
@@ -31,7 +32,9 @@ typedef struct _Module1Inputs
 	ULONG Data;
 	float Angle;
 	float PlcTimer;
+	SHORT Position;
 } Module1Inputs, *PModule1Inputs;
+#pragma pack(pop)
 
 #pragma pack(push,1)
 typedef struct _Module1Outputs
@@ -42,6 +45,12 @@ typedef struct _Module1Outputs
 	SHORT m1Int;
 	SHORT m2Int;
 	SHORT m3Int;
+	SHORT flow1Int;
+	SHORT flow2Int;
+	float Pos;
+	float TarPos;
+	float LL1;
+	float LL2;
 } Module1Outputs, *PModule1Outputs;
 #pragma pack(pop)
 

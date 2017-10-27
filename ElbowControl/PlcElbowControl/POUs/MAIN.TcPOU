@@ -5,10 +5,22 @@
 VAR
 	t AT %Q*: REAL := 0;
 	tip : REAL := 0.01;
+	tarpos AT %I* : REAL;
+	pos AT %I* : REAL;
+	LL1 AT %I* : REAL;
+	LL2 AT %I* : REAL;
+	err: REAL;
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[t := t + tip;]]></ST>
+      <ST><![CDATA[t := t + tip;
+pos;
+tarpos;
+err := tarpos - pos;
+LL1;
+LL2;
+
+]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>

@@ -48,6 +48,10 @@
     <ClInclude Include="Elbow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Cylinder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyAdd.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TcPch.cpp">
@@ -74,6 +78,10 @@
     <ClCompile Include="Elbow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Cylinder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyAdd.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="CppElbowControl.rc">

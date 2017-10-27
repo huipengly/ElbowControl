@@ -15,6 +15,11 @@ float Elbow::ShowRad()
 	return rad;
 }
 
+float Elbow::ShowAngle()
+{
+	return angle;
+}
+
 float Elbow::ShowM1()
 {
 	return m1;

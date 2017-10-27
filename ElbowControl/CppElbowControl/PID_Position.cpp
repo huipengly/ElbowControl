@@ -30,3 +30,8 @@ float PID_Position::pid_control(float tar, float act)
 	err_pre = err;
 	return u;
 }
+
+float PID_Position::ShowKp()
+{
+	return kp;
+}

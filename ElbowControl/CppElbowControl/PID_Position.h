@@ -18,6 +18,7 @@ public:
 	//~PID_Position();
 	void pid_set(float p, float i, float d);
 	float pid_control(float tar, float act);//Ö´ÐÐPID¿ØÖÆ
+	float ShowKp();
 };
 
 #endif //__PID_H_

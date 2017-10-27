@@ -36,8 +36,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cylinder.h" />
     <ClInclude Include="Elbow.h" />
     <ClInclude Include="Module1.h" />
+    <ClInclude Include="MyAdd.h" />
     <ClInclude Include="PID_Position.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="TcPch.h" />
@@ -48,12 +50,21 @@
     <ClInclude Include="CppElbowControlServices.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Cylinder.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|TwinCAT RT (x86)'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|TwinCAT RT (x86)'">NotUsing</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="Elbow.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|TwinCAT RT (x86)'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|TwinCAT RT (x86)'">NotUsing</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="Module1.cpp" />
+    <ClCompile Include="MyAdd.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|TwinCAT RT (x86)'">NotUsing</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="PID_Position.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|TwinCAT RT (x86)'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|TwinCAT RT (x86)'">NotUsing</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="TcPch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|TwinCAT UM (x86)'">Create</PrecompiledHeader>

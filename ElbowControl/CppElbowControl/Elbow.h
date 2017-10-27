@@ -5,6 +5,7 @@ public:
 	Elbow();
 	~Elbow();
 	float ShowRad();//返回当前弧度值
+	float ShowAngle();
 	float ShowM1();
 	float ShowM2();
 	void GetAngle(float InputAngle);//获取角度值并转换为弧度值
