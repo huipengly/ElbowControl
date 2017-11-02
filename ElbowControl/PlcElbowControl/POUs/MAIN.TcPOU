@@ -10,6 +10,15 @@ VAR
 	m1v AT %I* : REAL;
 	m2v AT %I* : REAL;
 	err: REAL;
+	test AT %Q* : INT;
+	a0 AT %Q* : INT;
+	a1 AT %Q* : INT;
+	a2 AT %Q* : INT;
+	a3 AT %Q* : INT;
+	a4 AT %Q* : INT;
+	a5 AT %Q* : INT;
+    N_save: INT := 1;
+    ERRORCODE: INT := 0;
 END_VAR
 ]]></Declaration>
     <Implementation>
@@ -20,6 +29,38 @@ err := tarrad - rad;
 m1v;
 m2v;
 
+IF  DATA[N_save].g=DATA[N_save].h THEN
+		DATA[N_save].p1:=tarrad;
+		DATA[N_save].p2:=rad;
+		DATA[N_save].p3:=err;
+		DATA[N_save].p4:=m1v;
+		DATA[N_save].p5:=m2v;
+		DATA[N_save].g:=NOT DATA[N_save].g ;
+		N_save:=N_save+1;
+		IF  N_save>200 THEN
+			N_save:=1;
+		END_IF
+ELSE
+		ERRORCODE:=1;
+END_IF
+
+//IF t<6 THEN
+//test := REAL_TO_INT(1*t/6.0*10000);
+//a0 := REAL_TO_INT(1*t/6.0*10000);
+//a1 := REAL_TO_INT(1*t/6.0*10000);
+//a2 := REAL_TO_INT(1*t/6.0*10000);
+//a3 := REAL_TO_INT(1*t/6.0*10000);
+//a4 := REAL_TO_INT(1*t/6.0*10000);
+//a5 := REAL_TO_INT(1*t/6.0*10000);
+//END_IF
+//IF t>6 AND t<12 THEN
+//a4 := REAL_TO_INT(1*(t-6)/6.0*10000);
+//END_IF
+//IF t>12 AND t<18 THEN
+//a1 := REAL_TO_INT(1*(18-t)/6.0*10000);
+//a2 := REAL_TO_INT(1*(18-t)/6.0*10000);
+//a4 := REAL_TO_INT(1*(18-t)/6.0*10000);
+//END_IF
 ]]></ST>
     </Implementation>
   </POU>

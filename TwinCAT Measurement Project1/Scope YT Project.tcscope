@@ -4,7 +4,7 @@
   <Title>Scope YT Project</Title>
   <LayoutString>&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;Layout&gt;
-  &lt;Window Guid="97332cdc-477f-498a-a8da-59f3e238ae5a" LastFocused="131535438154465934" DockedSize="200" PopupSize="0" FloatingLocation="-1, -1" FloatingSize="550, 400" LastOpenDockSituation="Document" LastFixedDockSituation="Document" LastFixedDockLocation="Right" LastFloatingWindowGuid="00000000-0000-0000-0000-000000000000" LastDockContainerCount="0" LastDockContainerIndex="0" DockedWorkingSize="250, 400" DockedWindowGroupGuid="00000000-0000-0000-0000-000000000000" DockedIndexInWindowGroup="0" DockedSplitPath="0" DocumentWorkingSize="250, 400" DocumentWindowGroupGuid="e3627557-a720-4c2a-9af0-d310b5d3d828" DocumentIndexInWindowGroup="0" DocumentSplitPath="0" FloatingWorkingSize="250, 400" FloatingWindowGroupGuid="00000000-0000-0000-0000-000000000000" FloatingIndexInWindowGroup="0" FloatingSplitPath="0" /&gt;
+  &lt;Window Guid="97332cdc-477f-498a-a8da-59f3e238ae5a" LastFocused="131540939708012024" DockedSize="200" PopupSize="0" FloatingLocation="-1, -1" FloatingSize="550, 400" LastOpenDockSituation="Document" LastFixedDockSituation="Document" LastFixedDockLocation="Right" LastFloatingWindowGuid="00000000-0000-0000-0000-000000000000" LastDockContainerCount="0" LastDockContainerIndex="0" DockedWorkingSize="250, 400" DockedWindowGroupGuid="00000000-0000-0000-0000-000000000000" DockedIndexInWindowGroup="0" DockedSplitPath="0" DocumentWorkingSize="250, 400" DocumentWindowGroupGuid="e3627557-a720-4c2a-9af0-d310b5d3d828" DocumentIndexInWindowGroup="0" DocumentSplitPath="0" FloatingWorkingSize="250, 400" FloatingWindowGroupGuid="00000000-0000-0000-0000-000000000000" FloatingIndexInWindowGroup="0" FloatingSplitPath="0" /&gt;
   &lt;DocumentContainer Dock="5"&gt;
     &lt;SplitLayoutSystem WorkingSize="250, 400" SplitMode="0"&gt;
       &lt;ControlLayoutSystem WorkingSize="250, 400" Guid="e3627557-a720-4c2a-9af0-d310b5d3d828" Collapsed="0" SelectedControl="97332cdc-477f-498a-a8da-59f3e238ae5a"&gt;
@@ -24,7 +24,8 @@
     <Comment></Comment>
     <ScopeStopAutoSave>
       <UseAutoSave>false</UseAutoSave>
-      <AutoSavePath />
+      <AutoSavePath>
+      </AutoSavePath>
       <FileNameMask>{SCOPE}_AutoSave_{HH_mm_ss}</FileNameMask>
     </ScopeStopAutoSave>
     <RestartRecord>false</RestartRecord>
@@ -99,15 +100,67 @@
           </Style>
           <Channels>
             <ScopeChannelSerializable>
-              <Name>MAIN.pos</Name>
+              <Name>MAIN.err</Name>
               <IdentHandle>1</IdentHandle>
               <Acquisition>
                 <DataType>REAL32</DataType>
-                <IndexGroup>61472</IndexGroup>
-                <IndexOffset>559180</IndexOffset>
+                <IndexGroup>16448</IndexGroup>
+                <IndexOffset>559192</IndexOffset>
                 <TargetPort>851</TargetPort>
                 <VariableSize>4</VariableSize>
-                <SymbolName>MAIN.pos</SymbolName>
+                <SymbolName>MAIN.err</SymbolName>
+                <SymbolComment></SymbolComment>
+                <IsSymbolBased>true</IsSymbolBased>
+                <FileHandle>0</FileHandle>
+                <UseLocalServer>true</UseLocalServer>
+                <AmsNetIdString>5.39.221.128.1.1</AmsNetIdString>
+                <SampleTime>100000</SampleTime>
+                <Disabled>false</Disabled>
+                <Oversample>0</Oversample>
+                <UseTaskSampletime>true</UseTaskSampletime>
+                <ForceOversampling>false</ForceOversampling>
+                <IsArray>false</IsArray>
+                <ArrayLength>0</ArrayLength>
+                <ContextMask>0</ContextMask>
+              </Acquisition>
+              <Style>
+                <ColorValue>-16777216</ColorValue>
+                <SolidLine>true</SolidLine>
+                <Marks>false</Marks>
+                <LineWidth>1</LineWidth>
+                <Antialias>true</Antialias>
+                <Offset>0</Offset>
+                <BitMask>1152921504606846975</BitMask>
+                <ShowCursorValue>true</ShowCursorValue>
+                <Visible>true</Visible>
+                <MarkColorValue>-16777216</MarkColorValue>
+                <MarkSize>3</MarkSize>
+                <TimeShift>0</TimeShift>
+                <ScaleFactor>1</ScaleFactor>
+                <Comment></Comment>
+                <AutoMarks>false</AutoMarks>
+                <XOffset>0</XOffset>
+                <XScaleFactor>1</XScaleFactor>
+                <XBitMask>1152921504606846975</XBitMask>
+                <FillMode>0</FillMode>
+                <FillColorValue>838861055</FillColorValue>
+                <EndCap>false</EndCap>
+                <StartCap>false</StartCap>
+                <CapSize>3</CapSize>
+                <CapColorValue>-65536</CapColorValue>
+              </Style>
+              <SortPriority>-1</SortPriority>
+            </ScopeChannelSerializable>
+            <ScopeChannelSerializable>
+              <Name>MAIN.rad</Name>
+              <IdentHandle>2</IdentHandle>
+              <Acquisition>
+                <DataType>REAL32</DataType>
+                <IndexGroup>61472</IndexGroup>
+                <IndexOffset>515628</IndexOffset>
+                <TargetPort>851</TargetPort>
+                <VariableSize>4</VariableSize>
+                <SymbolName>MAIN.rad</SymbolName>
                 <SymbolComment></SymbolComment>
                 <IsSymbolBased>true</IsSymbolBased>
                 <FileHandle>0</FileHandle>
@@ -151,67 +204,15 @@
               <SortPriority>-1</SortPriority>
             </ScopeChannelSerializable>
             <ScopeChannelSerializable>
-              <Name>MAIN.tarpos</Name>
-              <IdentHandle>2</IdentHandle>
-              <Acquisition>
-                <DataType>REAL32</DataType>
-                <IndexGroup>61472</IndexGroup>
-                <IndexOffset>559176</IndexOffset>
-                <TargetPort>851</TargetPort>
-                <VariableSize>4</VariableSize>
-                <SymbolName>MAIN.tarpos</SymbolName>
-                <SymbolComment></SymbolComment>
-                <IsSymbolBased>true</IsSymbolBased>
-                <FileHandle>0</FileHandle>
-                <UseLocalServer>true</UseLocalServer>
-                <AmsNetIdString>5.39.221.128.1.1</AmsNetIdString>
-                <SampleTime>100000</SampleTime>
-                <Disabled>false</Disabled>
-                <Oversample>0</Oversample>
-                <UseTaskSampletime>true</UseTaskSampletime>
-                <ForceOversampling>false</ForceOversampling>
-                <IsArray>false</IsArray>
-                <ArrayLength>0</ArrayLength>
-                <ContextMask>0</ContextMask>
-              </Acquisition>
-              <Style>
-                <ColorValue>-16744448</ColorValue>
-                <SolidLine>true</SolidLine>
-                <Marks>false</Marks>
-                <LineWidth>1</LineWidth>
-                <Antialias>true</Antialias>
-                <Offset>0</Offset>
-                <BitMask>1152921504606846975</BitMask>
-                <ShowCursorValue>true</ShowCursorValue>
-                <Visible>true</Visible>
-                <MarkColorValue>-16744448</MarkColorValue>
-                <MarkSize>3</MarkSize>
-                <TimeShift>0</TimeShift>
-                <ScaleFactor>1</ScaleFactor>
-                <Comment></Comment>
-                <AutoMarks>false</AutoMarks>
-                <XOffset>0</XOffset>
-                <XScaleFactor>1</XScaleFactor>
-                <XBitMask>1152921504606846975</XBitMask>
-                <FillMode>0</FillMode>
-                <FillColorValue>838861055</FillColorValue>
-                <EndCap>false</EndCap>
-                <StartCap>false</StartCap>
-                <CapSize>3</CapSize>
-                <CapColorValue>-65536</CapColorValue>
-              </Style>
-              <SortPriority>-1</SortPriority>
-            </ScopeChannelSerializable>
-            <ScopeChannelSerializable>
-              <Name>MAIN.err</Name>
+              <Name>MAIN.tarrad</Name>
               <IdentHandle>3</IdentHandle>
               <Acquisition>
                 <DataType>REAL32</DataType>
-                <IndexGroup>16448</IndexGroup>
-                <IndexOffset>559192</IndexOffset>
+                <IndexGroup>61472</IndexGroup>
+                <IndexOffset>515624</IndexOffset>
                 <TargetPort>851</TargetPort>
                 <VariableSize>4</VariableSize>
-                <SymbolName>MAIN.err</SymbolName>
+                <SymbolName>MAIN.tarrad</SymbolName>
                 <SymbolComment></SymbolComment>
                 <IsSymbolBased>true</IsSymbolBased>
                 <FileHandle>0</FileHandle>
@@ -282,15 +283,15 @@
           </Style>
           <Channels>
             <ScopeChannelSerializable>
-              <Name>MAIN.LL1</Name>
+              <Name>MAIN.m1v</Name>
               <IdentHandle>4</IdentHandle>
               <Acquisition>
                 <DataType>REAL32</DataType>
                 <IndexGroup>61472</IndexGroup>
-                <IndexOffset>559184</IndexOffset>
+                <IndexOffset>515632</IndexOffset>
                 <TargetPort>851</TargetPort>
                 <VariableSize>4</VariableSize>
-                <SymbolName>MAIN.LL1</SymbolName>
+                <SymbolName>MAIN.m1v</SymbolName>
                 <SymbolComment></SymbolComment>
                 <IsSymbolBased>true</IsSymbolBased>
                 <FileHandle>0</FileHandle>
@@ -306,7 +307,7 @@
                 <ContextMask>0</ContextMask>
               </Acquisition>
               <Style>
-                <ColorValue>-23296</ColorValue>
+                <ColorValue>-8355840</ColorValue>
                 <SolidLine>true</SolidLine>
                 <Marks>false</Marks>
                 <LineWidth>1</LineWidth>
@@ -315,7 +316,7 @@
                 <BitMask>1152921504606846975</BitMask>
                 <ShowCursorValue>true</ShowCursorValue>
                 <Visible>true</Visible>
-                <MarkColorValue>-23296</MarkColorValue>
+                <MarkColorValue>-8355840</MarkColorValue>
                 <MarkSize>3</MarkSize>
                 <TimeShift>0</TimeShift>
                 <ScaleFactor>1</ScaleFactor>
@@ -334,15 +335,15 @@
               <SortPriority>-1</SortPriority>
             </ScopeChannelSerializable>
             <ScopeChannelSerializable>
-              <Name>MAIN.LL2</Name>
+              <Name>MAIN.m2v</Name>
               <IdentHandle>5</IdentHandle>
               <Acquisition>
                 <DataType>REAL32</DataType>
                 <IndexGroup>61472</IndexGroup>
-                <IndexOffset>559188</IndexOffset>
+                <IndexOffset>515636</IndexOffset>
                 <TargetPort>851</TargetPort>
                 <VariableSize>4</VariableSize>
-                <SymbolName>MAIN.LL2</SymbolName>
+                <SymbolName>MAIN.m2v</SymbolName>
                 <SymbolComment></SymbolComment>
                 <IsSymbolBased>true</IsSymbolBased>
                 <FileHandle>0</FileHandle>
@@ -358,7 +359,7 @@
                 <ContextMask>0</ContextMask>
               </Acquisition>
               <Style>
-                <ColorValue>-16711936</ColorValue>
+                <ColorValue>-4145152</ColorValue>
                 <SolidLine>true</SolidLine>
                 <Marks>false</Marks>
                 <LineWidth>1</LineWidth>
@@ -367,7 +368,7 @@
                 <BitMask>1152921504606846975</BitMask>
                 <ShowCursorValue>true</ShowCursorValue>
                 <Visible>true</Visible>
-                <MarkColorValue>-16711936</MarkColorValue>
+                <MarkColorValue>-4145152</MarkColorValue>
                 <MarkSize>3</MarkSize>
                 <TimeShift>0</TimeShift>
                 <ScaleFactor>1</ScaleFactor>
@@ -386,7 +387,7 @@
               <SortPriority>-1</SortPriority>
             </ScopeChannelSerializable>
           </Channels>
-          <SortPriority>-1</SortPriority>
+          <SortPriority>0</SortPriority>
         </ScopeYAxisSerializable>
       </YAxes>
       <XYAxes />
@@ -399,7 +400,7 @@
         <DeltaValues>false</DeltaValues>
       </CursorModule>
       <Operating>
-        <DisplayWidth>120000000</DisplayWidth>
+        <DisplayWidth>100000000</DisplayWidth>
       </Operating>
       <ChartType>XT</ChartType>
       <SortPriority>-1</SortPriority>
