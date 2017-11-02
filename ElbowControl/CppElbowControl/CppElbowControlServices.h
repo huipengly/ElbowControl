@@ -47,10 +47,10 @@ typedef struct _Module1Outputs
 	SHORT m3Int;
 	SHORT flow1Int;
 	SHORT flow2Int;
-	float Pos;
-	float TarPos;
-	float LL1;
-	float LL2;
+	float rad;
+	float tarrad;
+	float m1v;
+	float m2v;
 } Module1Outputs, *PModule1Outputs;
 #pragma pack(pop)
 

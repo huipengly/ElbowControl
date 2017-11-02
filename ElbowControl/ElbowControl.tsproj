@@ -65,11 +65,7 @@
 		<ImageData Id="1003">424dd6020000000000003600000028000000100000000e0000000100180000000000a0020000c40e0000c40e00000000000000000000ff00ffff00ffff00ffff00ffff00ffff00ff808080808080808080808080808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0000000c0c0c0000000808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c000ffffc0c0c000ffff808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0000000c0c0c0000000808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0ff0000c0c0c0ff0000808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ff00ff0000ff0000ff0000ff0000ff0000ff00c0c0c0000000c0c0c0000000808080ff00ffff00ffff00ffff00ffff00ff00ff0000ff0000ff0000ff0000ff0000ff00c0c0c00000ffc0c0c00000ff808080ff00ffff00ffff00ffff00ffff00ff00ff0000ff0000ff0000ff0000ff0000ff00c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ff00ff0000ff0000ff0000ff0000ff0000ff00c0c0c0000000c0c0c0000000808080ff00ffff00ffff00ffff00ffff00ff00ff0000ff0000ff0000ff0000ff0000ff00c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ff00ff0000ff0000ff0000ff0000ff0000ff00c0c0c0008000c0c0c0008000808080ff00ffff00ffff00ffff00ffff00ff00ff0000ff0000ff0000ff0000ff0000ff00c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ff</ImageData>
 		<ImageData Id="1004">424dd6020000000000003600000028000000100000000e0000000100180000000000a0020000c40e0000c40e00000000000000000000ff00ffff00ffff00ffff00ffff00ffff00ff808080808080808080808080808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0000000c0c0c0000000808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c000ffffc0c0c000ffff808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0000000c0c0c0000000808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0ff0000c0c0c0ff0000808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff0000ff0000ff0000ff0000ff0000ff0000c0c0c0000000c0c0c0000000808080ff00ffff00ffff00ffff00ffff00ffff0000ff0000ff0000ff0000ff0000ff0000c0c0c00000ffc0c0c00000ff808080ff00ffff00ffff00ffff00ffff00ffff0000ff0000ff0000ff0000ff0000ff0000c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff0000ff0000ff0000ff0000ff0000ff0000c0c0c0000000c0c0c0000000808080ff00ffff00ffff00ffff00ffff00ffff0000ff0000ff0000ff0000ff0000ff0000c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff0000ff0000ff0000ff0000ff0000ff0000c0c0c0008000c0c0c0008000808080ff00ffff00ffff00ffff00ffff00ffff0000ff0000ff0000ff0000ff0000ff0000c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ff</ImageData>
 		<ImageData Id="1005">424dd6020000000000003600000028000000100000000e0000000100180000000000a0020000120b0000120b00000000000000000000ff00ffff00ffff00ffff00ffff00ffff00ff808080808080808080808080808080808080808080808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080808080808080c0c0c0c0c0c080808000bfffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c080808080808080808000bfff00bfff00bfff00bfff00bfffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080808080808080c0c0c0c0c0c080808000bfffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080808080808080c0c0c0c0c0c080808000bfffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c080808080808080808000bfff00bfff00bfff00bfff00bfff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080808080808080c0c0c0c0c0c080808000bfffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0c0c0c0bbc2bbc0c0c0c0c0c0c0c0c0808080ff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0bac2ba0bfc0bc0c0c0c0c0c0c0c0c0808080ff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0808080ff00ffff00ff</ImageData>
-		<ImageData Id="1006">424dd6020000000000003600000028000000100000000e0000000100180000000000a0020000130b0000130b00000000000000000000545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c85454546060604848484e4e4e000000c8c8c8c8c8c8c8c8c8545454c8c8c88a8a8a848484c8c8c88484848a8a8ac8c8c8545454606060c8c8c8c8c8c84e4e4ec8c8c88a8a8a848484545454c8c8c83c3c3c8a8a8ac8c8c88a8a8a3c3c3cc8c8c8545454606060c8c8c8c8c8c8484848c8c8c83c3c3c8a8a8a545454c8c8c8ccccccc8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454606060c8c8c8c8c8c8484848c8c8c8c8c8c8c8c8c8545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454606060c8c8c8c8c8c8484848ccccccc8c8c8c8c8c8545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454606060c8c8c8c8c8c8484848c8c8c83c3c3c8a8a8a545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454606060c8c8c8c8c8c84e4e4ec8c8c88a8a8a848484545454c8c8c83c3c3c8a8a8ac6c6c68a8a8a3c3c3cc8c8c85454546060604848484e4e4e000000c8c8c8c8c8c8c8c8c8545454c8c8c88a8a8a848484c6c6c68484848a8a8ac8c8c8545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454ffffffffffffffffffffffff574fffffffff574fff545454574fffffffff574fffffffff574fffffffff574fff545454ffffff3c3c3c8a8a8affffff67c347ffffff67c34754545467c347ffffff67c347ffffff67c347ffffff67c347545454ffffff8a8a8a848484ffffff6757ffffffff6757ff5454546757ffffffff6757ffffffff6757ffffffff6757ff545454ffffffffffffffffffffffff6bc75bfffbff6bc75b5454546bc75bfffbff6bc75bffffff6bc75bfffbff6bc75b</ImageData>
-		<ImageData Id="1007">424dd6020000000000003600000028000000100000000e0000000100180000000000a0020000130b0000130b00000000000000000000000000ff00ffff00ff000000ff00ffff00ff000000000000000000000000000000000000000000000000ff00ffff00ffff00ffff00ff000000ff00ffff00ffff00ff000000999999999999999999999999999999999999000000000000ff00ffff00ff000000ff00ffff00ffff00ffff00ff000000000000000000000000000000000000000000000000000000ff00ff000000ff00ffff00ff000000ff00ffff00ff000000999999999999000000000000999999999999000000000000ff00ffff00ffff00ffff00ffff00ffff00ffff00ff000000000000000000000000000000000000000000000000000000ff00ff000000ff00ffff00ffff00ffff00ffff00ff000000999999999999999999999999999999999999000000000000ff00ff000000000000000000ff00ffff00ffff00ff000000000000000000000000000000000000000000000000000000ff00ff000000ff00ffff00ff000000ff00ffff00ff000000999999999999999999999999999999999999000000000000ff00ff000000000000000000ff00ffff00ffff00ff000000000000000000000000000000000000000000000000000000ff00ffff00ffff00ffff00ffff00ffff00ffff00ff000000999999999999999999999999999999999999000000000000ff00ffff00ff000000000000000000ff00ffff00ff000000000000000000000000000000000000000000000000000000ff00ff000000ff00ffff00ffff00ffff00ffff00ff000000999999999999999999999999999999999999000000000000ff00ff000000ff00ffff00ffff00ffff00ffff00ff000000000000000000000000000000000000000000000000000000ff00ffff00ff000000000000000000ff00ffff00ff000000000000000000000000000000000000000000000000ff00ffff00ff</ImageData>
-		<ImageData Id="1008">424dd6020000000000003600000028000000100000000e0000000100180000000000a002000000000000000000000000000000000000545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c85454546060604848484e4e4e000000c8c8c8c8c8c8c8c8c8545454c8c8c88a8a8a848484c8c8c88484848a8a8ac8c8c8545454606060c8c8c8c8c8c84e4e4ec8c8c88a8a8a848484545454c8c8c83c3c3c8a8a8ac8c8c88a8a8a3c3c3cc8c8c8545454606060c8c8c8c8c8c8484848c8c8c83c3c3c8a8a8a545454c8c8c8ccccccc8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454606060c8c8c8c8c8c8484848c8c8c8c8c8c8c8c8c8545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454606060c8c8c8c8c8c8484848ccccccc8c8c8c8c8c8545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454606060c8c8c8c8c8c8484848c8c8c83c3c3c8a8a8a545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454606060c8c8c8c8c8c84e4e4ec8c8c88a8a8a848484545454c8c8c83c3c3c8a8a8ac6c6c68a8a8a3c3c3cc8c8c85454546060604848484e4e4e000000c8c8c8c8c8c8c8c8c8545454c8c8c88a8a8a848484c6c6c68484848a8a8ac8c8c8545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c8545454ffffffffffffffffffffffff574fffffffff574fff545454574fffffffff574fffffffff574fffffffff574fff545454ffffff3c3c3c8a8a8affffff67c347ffffff67c34754545467c347ffffff67c347ffffff67c347ffffff67c347545454ffffff8a8a8a848484ffffff6757ffffffff6757ff5454546757ffffffff6757ffffffff6757ffffffff6757ff545454ffffffffffffffffffffffff6bc75bfffbff6bc75b5454546bc75bfffbff6bc75bffffff6bc75bfffbff6bc75b</ImageData>
-		<ImageData Id="1009">424dd6020000000000003600000028000000100000000e0000000100180000000000a0020000130b0000130b000000000000000000009999990000009999999999999999990000000000009999999999990000000000009999999999999999990000009999999999990000009999999999999999990000009999990000009999999999999999990000009999999999990000009999999999990000000000009999999999990000000000009999999999999999990000009999999999999999990000009999999999990000009999999999999999990000009999990000009999999999999999990000009999999999999999990000009999990000000000000000009999990000000000009999999999990000000000009999999999990000000000000000009999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999991de6b599999900f2ff9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999991de6b5999999241ced999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999241ced9999991de6b59999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999991de6b59999991de6b5999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999</ImageData>
-		<ImageData Id="1010">424dd6020000000000003600000028000000100000000e0000000100180000000000a0020000c40e0000c40e00000000000000000000ff00ffff00ffff00ffff00ffff00ffff00ff808080808080808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff</ImageData>
+		<ImageData Id="1006">424dd6020000000000003600000028000000100000000e0000000100180000000000a0020000c40e0000c40e00000000000000000000ff00ffff00ffff00ffff00ffff00ffff00ff808080808080808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffff00ffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff007fff007fff007fff007fff007fff007fffc0c0c0c0c0c0808080ff00ffff00ffff00ffff00ffff00ffff00ffff00ff</ImageData>
 	</ImageDatas>
 	<Project ProjectGUID="{20051AC5-FC16-41B0-A2FD-A85B93AC55C3}" TargetNetId="5.39.221.128.1.1">
 		<System>
@@ -100,19 +96,19 @@
 							<Type GUID="{28054AA7-D470-4BAC-995B-7A7D38905882}" Namespace="Tc2_SerialCom">KL6inData22B</Type>
 						</Var>
 						<Var>
-							<Name>MAIN.tarpos</Name>
+							<Name>MAIN.tarrad</Name>
 							<Type>REAL</Type>
 						</Var>
 						<Var>
-							<Name>MAIN.pos</Name>
+							<Name>MAIN.rad</Name>
 							<Type>REAL</Type>
 						</Var>
 						<Var>
-							<Name>MAIN.LL1</Name>
+							<Name>MAIN.m1v</Name>
 							<Type>REAL</Type>
 						</Var>
 						<Var>
-							<Name>MAIN.LL2</Name>
+							<Name>MAIN.m2v</Name>
 							<Type>REAL</Type>
 						</Var>
 					</Vars>
@@ -305,25 +301,25 @@
 									<BitOffs>160</BitOffs>
 								</Symbol>
 								<Symbol>
-									<Name>Pos</Name>
+									<Name>rad</Name>
 									<BitSize>32</BitSize>
 									<BaseType GUID="{18071995-0000-0000-0000-00000000000D}">REAL</BaseType>
 									<BitOffs>176</BitOffs>
 								</Symbol>
 								<Symbol>
-									<Name>TarPos</Name>
+									<Name>tarrad</Name>
 									<BitSize>32</BitSize>
 									<BaseType GUID="{18071995-0000-0000-0000-00000000000D}">REAL</BaseType>
 									<BitOffs>208</BitOffs>
 								</Symbol>
 								<Symbol>
-									<Name>LL1</Name>
+									<Name>m1v</Name>
 									<BitSize>32</BitSize>
 									<BaseType GUID="{18071995-0000-0000-0000-00000000000D}">REAL</BaseType>
 									<BitOffs>240</BitOffs>
 								</Symbol>
 								<Symbol>
-									<Name>LL2</Name>
+									<Name>m2v</Name>
 									<BitSize>32</BitSize>
 									<BaseType GUID="{18071995-0000-0000-0000-00000000000D}">REAL</BaseType>
 									<BitOffs>272</BitOffs>
@@ -417,14 +413,17 @@
 				<Image Id="1" AddrType="9" ImageType="3">
 					<Name>Image</Name>
 				</Image>
-				<Box BoxType="9099" Id="11">
+				<Image Id="3" AddrType="10" ImageType="3">
+					<Name>Image-2</Name>
+				</Image>
+				<Box BoxType="9099" Id="1">
 					<Name>Term 12 (EK1200)</Name>
 					<ImageId>1000</ImageId>
 					<EtherCAT PdiType="#x0100" CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x04b02c52" RevisionNo="#x00001388" InfoDataState="false" PortPhys="49" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EK1200-5000 EtherCAT Power supply (2A E-Bus)" Desc="EK1200" PortABoxInfo="#x00ffffff"/>
-					<Box BoxType="9099" Id="12">
-						<Name>Term 12 (EL2502)</Name>
+					<Box BoxType="9099" Id="2">
+						<Name>Term 2 (EL2502)</Name>
 						<ImageId>1001</ImageId>
-						<EtherCAT SlaveType="2" PdiType="#x0005" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x09c63052" RevisionNo="#x001a0000" InfoDataAddr="true" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL2502 2K. PWM Ausgang, 24V" Desc="EL2502" PortABoxInfo="#x0100000b">
+						<EtherCAT SlaveType="2" PdiType="#x0005" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x09c63052" RevisionNo="#x001a0000" InfoDataAddr="true" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL2502 2K. PWM Ausgang, 24V" Desc="EL2502" PortABoxInfo="#x01000001">
 							<SyncMan>001080002600010001000000000000008000001026010000</SyncMan>
 							<SyncMan>801080002200010002000000000000008000801022010000</SyncMan>
 							<SyncMan>001104002400010003000000000000000400001124010000</SyncMan>
@@ -476,10 +475,10 @@
 							</Pdo>
 						</EtherCAT>
 					</Box>
-					<Box BoxType="9101" Id="13">
-						<Name>Term 13 (EL6001)</Name>
+					<Box BoxType="9101" Id="3">
+						<Name>Term 3 (EL6001)</Name>
 						<ImageId>1002</ImageId>
-						<EtherCAT SlaveType="7" PdiType="#x0005" MboxDataLinkLayer="true" CycleMBoxPolling="true" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x17713052" RevisionNo="#x00140000" InfoDataAddr="true" TimeoutMailbox2="2000" CheckRevisionNoType="3" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL6001 Interface (RS232)" Desc="EL6001" PortABoxInfo="#x0100000c">
+						<EtherCAT SlaveType="7" PdiType="#x0005" MboxDataLinkLayer="true" CycleMBoxPolling="true" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x17713052" RevisionNo="#x00140000" InfoDataAddr="true" TimeoutMailbox2="2000" CheckRevisionNoType="3" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL6001 Interface (RS232)" Desc="EL6001" PortABoxInfo="#x01000002">
 							<SyncMan>0018f6002600010001000000f600f600f600001826010000</SyncMan>
 							<SyncMan>f618f6002200010002000000f600f600f600f61822010000</SyncMan>
 							<SyncMan>001018002400010003000000000000001800001024010000</SyncMan>
@@ -1272,10 +1271,10 @@
 							<EL60xxComPort BaudRate="9600" ByteSize="8" EnableRtsCts="true" LocalComPort="true" RxFifoFullThreshold="864"/>
 						</EtherCAT>
 					</Box>
-					<Box BoxType="9099" Id="14">
-						<Name>Term 14 (EL3002)</Name>
+					<Box BoxType="9099" Id="4">
+						<Name>Term 4 (EL3002)</Name>
 						<ImageId>1003</ImageId>
-						<EtherCAT SlaveType="2" PdiType="#x0005" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x0bba3052" RevisionNo="#x00140000" InfoDataAddr="true" TimeoutMailbox2="2000" CheckRevisionNoType="3" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL3002 2Ch. Ana. Input +/-10V" Desc="EL3002" PortABoxInfo="#x0100000d">
+						<EtherCAT SlaveType="2" PdiType="#x0005" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x0bba3052" RevisionNo="#x00140000" InfoDataAddr="true" TimeoutMailbox2="2000" CheckRevisionNoType="3" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL3002 2Ch. Ana. Input +/-10V" Desc="EL3002" PortABoxInfo="#x01000003">
 							<SyncMan>001080002600010001000000800080008000001026010000</SyncMan>
 							<SyncMan>801080002200010002000000800080008000801022010000</SyncMan>
 							<SyncMan>001100000400000003000000000000000000001104000000</SyncMan>
@@ -1411,10 +1410,10 @@ Bit1: Value bigger/equal Limit2]]>
 							<CoeProfile ProfileNo="19665801"/>
 						</EtherCAT>
 					</Box>
-					<Box BoxType="9099" Id="15">
-						<Name>Term 15 (EL4104)</Name>
+					<Box BoxType="9099" Id="5">
+						<Name>Term 5 (EL4104)</Name>
 						<ImageId>1004</ImageId>
-						<EtherCAT SlaveType="2" PdiType="#x0005" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="3" FoeType="1" VendorId="#x00000002" ProductCode="#x10083052" RevisionNo="#x03fa0000" InfoDataAddr="true" TimeoutMailbox2="2000" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL4104 4Ch. Ana. Output 0-10V, 16bit" Desc="EL4104" PortABoxInfo="#x0100000e">
+						<EtherCAT SlaveType="2" PdiType="#x0005" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="3" FoeType="1" VendorId="#x00000002" ProductCode="#x10083052" RevisionNo="#x03fa0000" InfoDataAddr="true" TimeoutMailbox2="2000" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL4104 4Ch. Ana. Output 0-10V, 16bit" Desc="EL4104" PortABoxInfo="#x01000004">
 							<SyncMan>001080002600010001000000800080008000001026010000</SyncMan>
 							<SyncMan>801080002200010002000000800080008000801022010000</SyncMan>
 							<SyncMan>001108002400010003000000000000000800001124010000</SyncMan>
@@ -1450,10 +1449,10 @@ Bit1: Value bigger/equal Limit2]]>
 							<CoeProfile ProfileNo="26219401"/>
 						</EtherCAT>
 					</Box>
-					<Box BoxType="9099" Id="16">
-						<Name>Term 16 (EL4102)</Name>
+					<Box BoxType="9099" Id="6">
+						<Name>Term 6 (EL4102)</Name>
 						<ImageId>1004</ImageId>
-						<EtherCAT SlaveType="2" PdiType="#x0c05" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x10063052" RevisionNo="#x03fb0000" InfoDataAddr="true" TimeoutMailbox2="2000" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL4102 2Ch. Ana. Output  0-10V, 16bit" Desc="EL4102" PortABoxInfo="#x0100000f">
+						<EtherCAT SlaveType="2" PdiType="#x0c05" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x10063052" RevisionNo="#x03fb0000" InfoDataAddr="true" TimeoutMailbox2="2000" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL4102 2Ch. Ana. Output  0-10V, 16bit" Desc="EL4102" PortABoxInfo="#x01000005">
 							<SyncMan>0018f6002600010001000000f600f600f600001826010000</SyncMan>
 							<SyncMan>f618f6002200010002000000f600f600f600f61822010000</SyncMan>
 							<SyncMan>001004002400010003000000000000000400001024010000</SyncMan>
@@ -1477,10 +1476,10 @@ Bit1: Value bigger/equal Limit2]]>
 							<CoeProfile ProfileNo="401"/>
 						</EtherCAT>
 					</Box>
-					<Box BoxType="9099" Id="17">
-						<Name>Term 17 (EL3692)</Name>
+					<Box BoxType="9099" Id="7">
+						<Name>Term 7 (EL3692)</Name>
 						<ImageId>1003</ImageId>
-						<EtherCAT SlaveType="2" PdiType="#x0005" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x0e6c3052" RevisionNo="#x00140000" InfoDataAddr="true" TimeoutMailbox2="2000" CheckRevisionNoType="3" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL3692 2Ch. resistance measurement terminal" Desc="EL3692" PortABoxInfo="#x01000010">
+						<EtherCAT SlaveType="2" PdiType="#x0005" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x0e6c3052" RevisionNo="#x00140000" InfoDataAddr="true" TimeoutMailbox2="2000" CheckRevisionNoType="3" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL3692 2Ch. resistance measurement terminal" Desc="EL3692" PortABoxInfo="#x01000006">
 							<SyncMan>001080002600010001000000800080008000001026010000</SyncMan>
 							<SyncMan>801080002200010002000000800080008000801022010000</SyncMan>
 							<SyncMan>001100002400000003000000000000000400001124010000</SyncMan>
@@ -1743,10 +1742,10 @@ Bit1: Value bigger/equal Limit2]]>
 							<CoeProfile ProfileNo="23597961" DisplayName="Scintific analog inp"/>
 						</EtherCAT>
 					</Box>
-					<Box BoxType="9101" Id="18">
-						<Name>Term 18 (EL6001)</Name>
+					<Box BoxType="9101" Id="8">
+						<Name>Term 8 (EL6001)</Name>
 						<ImageId>1002</ImageId>
-						<EtherCAT SlaveType="7" PdiType="#x0005" MboxDataLinkLayer="true" CycleMBoxPolling="true" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x17713052" RevisionNo="#x00140000" InfoDataAddr="true" TimeoutMailbox2="2000" CheckRevisionNoType="3" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL6001 Interface (RS232)" Desc="EL6001" PortABoxInfo="#x01000011">
+						<EtherCAT SlaveType="7" PdiType="#x0005" MboxDataLinkLayer="true" CycleMBoxPolling="true" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x17713052" RevisionNo="#x00140000" InfoDataAddr="true" TimeoutMailbox2="2000" CheckRevisionNoType="3" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL6001 Interface (RS232)" Desc="EL6001" PortABoxInfo="#x01000007">
 							<SyncMan>0018f6002600010001000000f600f600f600001826010000</SyncMan>
 							<SyncMan>f618f6002200010002000000f600f600f600f61822010000</SyncMan>
 							<SyncMan>001018002400010003000000000000001800001024010000</SyncMan>
@@ -2539,754 +2538,15 @@ Bit1: Value bigger/equal Limit2]]>
 							<EL60xxComPort BaudRate="9600" ByteSize="8" EnableRtsCts="true" LocalComPort="true" RxFifoFullThreshold="864"/>
 						</EtherCAT>
 					</Box>
-					<Box BoxType="9099" Id="19">
-						<Name>Term 19 (EK1122)</Name>
+					<Box BoxType="9099" Id="9">
+						<Name>Term 9 (EK1122)</Name>
 						<ImageId>1005</ImageId>
-						<EtherCAT SlaveType="1" PdiType="#x0d00" CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x04622c52" RevisionNo="#x00120000" PortPhys="4883" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EK1122 2 port EtherCAT junction" Desc="EK1122" PortABoxInfo="#x01000012"/>
-						<Box BoxType="9099" Id="22">
-							<Name>Box 22 (CPX-FB37)</Name>
-							<ImageId>1006</ImageId>
-							<EtherCAT SlaveType="2" PdiType="#x0c08" MboxDataLinkLayer="true" CycleMBoxPolling="true" CoeType="39" EoeType="1" FoeType="1" VendorId="#x0000001d" ProductCode="#x0029bf58" RevisionNo="#x00000005" InfoDataAddr="true" DownloadSlotCfg="true" PortPhys="17" IdentificationAdo="18" MaxSlotCount="48" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="1" Type="CPX-FB37 Fieldbus module" Desc="CPX-FB37" PortABoxInfo="#x01000013">
-								<SyncMan>001278052600010001000000220000087805001226010000</SyncMan>
-								<SyncMan>002278052200010002000000220000087805002222010000</SyncMan>
-								<SyncMan>001010006400010003000000000000000000001064010000</SyncMan>
-								<SyncMan>001110002000010004000000000000000000001120010000</SyncMan>
-								<Fmmu>0000000000000000001000020100000001000000000000000000000000000000</Fmmu>
-								<Fmmu>0000000000000000001100010100000002000000000000000000000000000000</Fmmu>
-								<SwitchPortData>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</SwitchPortData>
-								<BootStrapData>0012000400220004</BootStrapData>
-								<Pdo Name="Diag History" Index="#x1a40" Flags="#x0010">
-									<Entry Name="New Message Available" Index="#x10f3" Sub="#x04">
-										<Type>BIT</Type>
-									</Entry>
-									<Entry>
-										<Type>ARRAY [0..6] OF BIT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Inputs" Index="#x1a01" Flags="#x0290" SyncMan="3">
-									<Entry Name="Input 0" Index="#x6001" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Outputs" Index="#x1601" InOut="1" Flags="#x0290" SyncMan="2">
-									<Entry Name="Output 0" Index="#x7001" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Inputs" Index="#x1a02" Flags="#x0290" SyncMan="3">
-									<Entry Name="Input 0" Index="#x6002" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Outputs" Index="#x1602" InOut="1" Flags="#x0290" SyncMan="2">
-									<Entry Name="Output 0" Index="#x7002" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Inputs" Index="#x1a03" Flags="#x0290" SyncMan="3">
-									<Entry Name="Input 0" Index="#x6003" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Outputs" Index="#x1603" InOut="1" Flags="#x0290" SyncMan="2">
-									<Entry Name="Output 0" Index="#x7003" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Inputs" Index="#x1a04" Flags="#x0290" SyncMan="3">
-									<Entry Name="Input 0" Index="#x6004" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Outputs" Index="#x1604" InOut="1" Flags="#x0290" SyncMan="2">
-									<Entry Name="Output 0" Index="#x7004" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Inputs" Index="#x1a05" Flags="#x0290" SyncMan="3">
-									<Entry Name="Input 0" Index="#x6005" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Outputs" Index="#x1605" InOut="1" Flags="#x0290" SyncMan="2">
-									<Entry Name="Output 0" Index="#x7005" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Inputs" Index="#x1a06" Flags="#x0290" SyncMan="3">
-									<Entry Name="Input 0" Index="#x6006" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Outputs" Index="#x1606" InOut="1" Flags="#x0290" SyncMan="2">
-									<Entry Name="Output 0" Index="#x7006" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Inputs" Index="#x1a07" Flags="#x0290" SyncMan="3">
-									<Entry Name="Input 0" Index="#x6007" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Outputs" Index="#x1607" InOut="1" Flags="#x0290" SyncMan="2">
-									<Entry Name="Output 0" Index="#x7007" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Inputs" Index="#x1a08" Flags="#x0290" SyncMan="3">
-									<Entry Name="Input 0" Index="#x6008" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Pdo Name="Outputs" Index="#x1608" InOut="1" Flags="#x0290" SyncMan="2">
-									<Entry Name="Output 0" Index="#x7008" Sub="#x01" Flags="#x00001000">
-										<Type>INT</Type>
-									</Entry>
-								</Pdo>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-									<Module Id="#x03090001" Type="FB37-RIO" Class="BusNode">
-										<Name>Module 1 (FB37-RIO)</Name>
-										<ImageId>1009</ImageId>
-										<ModuleData>1d000000000002e0000000000000000000000000000000000000000000000000</ModuleData>
-									</Module>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-									<Module Id="#x03090002" Type="VPPM Display 10 bar [1AI/1AO]" Class="ProportionalValve">
-										<Name>Module 1 (VPPM Display 10 bar [1AI/1AO])</Name>
-										<ImageId>1008</ImageId>
-										<ModuleData>1d0000000202028a000004000000000000000000000000000000000000000000</ModuleData>
-										<PdoIndex>6657</PdoIndex>
-										<PdoIndex>5633</PdoIndex>
-									</Module>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-									<Module Id="#x03090003" Type="VPPM Display 10 bar [1AI/1AO]" Class="ProportionalValve">
-										<Name>Module 1 (VPPM Display 10 bar [1AI/1AO])</Name>
-										<ImageId>1008</ImageId>
-										<ModuleData>1d0000000202028a000004000000000000000000000000000000000000000000</ModuleData>
-										<PdoIndex>6658</PdoIndex>
-										<PdoIndex>5634</PdoIndex>
-									</Module>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-									<Module Id="#x03090004" Type="VPPM Display 10 bar [1AI/1AO]" Class="ProportionalValve">
-										<Name>Module 1 (VPPM Display 10 bar [1AI/1AO])</Name>
-										<ImageId>1008</ImageId>
-										<ModuleData>1d0000000202028a000004000000000000000000000000000000000000000000</ModuleData>
-										<PdoIndex>6659</PdoIndex>
-										<PdoIndex>5635</PdoIndex>
-									</Module>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-									<Module Id="#x03090005" Type="VPPM Display 10 bar [1AI/1AO]" Class="ProportionalValve">
-										<Name>Module 1 (VPPM Display 10 bar [1AI/1AO])</Name>
-										<ImageId>1008</ImageId>
-										<ModuleData>1d0000000202028a000004000000000000000000000000000000000000000000</ModuleData>
-										<PdoIndex>6660</PdoIndex>
-										<PdoIndex>5636</PdoIndex>
-									</Module>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-									<Module Id="#x03090006" Type="VPPM Display 10 bar [1AI/1AO]" Class="ProportionalValve">
-										<Name>Module 1 (VPPM Display 10 bar [1AI/1AO])</Name>
-										<ImageId>1008</ImageId>
-										<ModuleData>1d0000000202028a000004000000000000000000000000000000000000000000</ModuleData>
-										<PdoIndex>6661</PdoIndex>
-										<PdoIndex>5637</PdoIndex>
-									</Module>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-									<Module Id="#x03090007" Type="VPPM Display 10 bar [1AI/1AO]" Class="ProportionalValve">
-										<Name>Module 1 (VPPM Display 10 bar [1AI/1AO])</Name>
-										<ImageId>1008</ImageId>
-										<ModuleData>1d0000000202028a000004000000000000000000000000000000000000000000</ModuleData>
-										<PdoIndex>6662</PdoIndex>
-										<PdoIndex>5638</PdoIndex>
-									</Module>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-									<Module Id="#x03090008" Type="VPPM Display 10 bar [1AI/1AO]" Class="ProportionalValve">
-										<Name>Module 1 (VPPM Display 10 bar [1AI/1AO])</Name>
-										<ImageId>1008</ImageId>
-										<ModuleData>1d0000000202028a000004000000000000000000000000000000000000000000</ModuleData>
-										<PdoIndex>6663</PdoIndex>
-										<PdoIndex>5639</PdoIndex>
-									</Module>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-									<Module Id="#x03090009" Type="VPPM Display 10 bar [1AI/1AO]" Class="ProportionalValve">
-										<Name>Module 1 (VPPM Display 10 bar [1AI/1AO])</Name>
-										<ImageId>1008</ImageId>
-										<ModuleData>1d0000000202028a000004000000000000000000000000000000000000000000</ModuleData>
-										<PdoIndex>6664</PdoIndex>
-										<PdoIndex>5640</PdoIndex>
-									</Module>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-								<Slot Name="Slot" ImageId="1007">
-									<SlotData>0000000001000000010000000100000000000000000000000000000000000000</SlotData>
-									<ModuleClass Class="DigitalModule" Name="Digital modules" VendorId="29" ImageId="1006"/>
-									<ModuleClass Class="AnalogModule" Name="Analogue modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="BusNode" Name="Bus Nodes" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticModule" Name="Pneumatic Module" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="PneumaticInterface" Name="Pneumatic Interface" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="ProportionalValve" Name="Proportional Valves" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="TechnologyModule" Name="Technology Modules" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="CPIModules" Name="CP-System (CPI)" VendorId="29" ImageId="1008"/>
-									<ModuleClass Class="IOLinkModules" Name="I-Port / IO-Link Modules" VendorId="29" ImageId="1008"/>
-								</Slot>
-							</EtherCAT>
-						</Box>
+						<EtherCAT SlaveType="1" PdiType="#x0d00" CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x04622c52" RevisionNo="#x00120000" PortPhys="4883" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EK1122 2 port EtherCAT junction" Desc="EK1122" PortABoxInfo="#x01000008"/>
 					</Box>
-					<Box Disabled="true" BoxType="9099" Id="20">
+					<Box BoxType="9099" Id="10">
 						<Name>Term 21 (EL9011)</Name>
-						<ImageId>1010</ImageId>
-						<EtherCAT CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x23333050" InfoDataState="false" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL9011 End Terminal" Desc="EL9011" PortABoxInfo="#x02000013"/>
+						<ImageId>1006</ImageId>
+						<EtherCAT CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x23333050" InfoDataState="false" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL9011 End Terminal" Desc="EL9011" PortABoxInfo="#x02000009"/>
 					</Box>
 				</Box>
 				<EtherCAT EnableVirtualSwitch="true" MaxSwitchPorts="5" MaxSwitchFrames="180"/>
@@ -3294,21 +2554,69 @@ Bit1: Value bigger/equal Limit2]]>
 		</Io>
 	</Project>
 	<Mappings>
-		<MappingInfo Identifier="{00000000-0010-0304-2000-010110000403}" Id="#x03070010"/>
 		<MappingInfo Identifier="{02010090-0011-0101-2000-010110000101}" Id="#x03070020" Watchdog="04000000040000000400000004000000"/>
+		<MappingInfo Identifier="{00000000-0011-0101-1000-010110000403}" Id="#x03070010"/>
 		<OwnerA Name="TIID^Device 1 (EtherCAT)">
 			<OwnerB Name="TIXC^CppElbowControl^CppElbowControl_Obj1 (CModule1)">
-				<Link VarA="Term 12 (EK1200)^Term 14 (EL3002)^AI Standard Channel 2^Value" VarB="Inputs^Position"/>
-				<Link VarA="Term 12 (EK1200)^Term 15 (EL4104)^AO Output Channel 1^Analog output" VarB="Outputs^flow2Int"/>
-				<Link VarA="Term 12 (EK1200)^Term 15 (EL4104)^AO Output Channel 2^Analog output" VarB="Outputs^flow1Int"/>
+				<Link VarA="Term 12 (EK1200)^Term 6 (EL4102)^Channel 1^Output" VarB="Outputs^m2Int"/>
+				<Link VarA="Term 12 (EK1200)^Term 6 (EL4102)^Channel 2^Output" VarB="Outputs^m1Int"/>
 			</OwnerB>
 		</OwnerA>
 		<OwnerA Name="TIPC^PlcElbowControl^PlcElbowControl Instance">
+			<OwnerB Name="TIID^Device 1 (EtherCAT)^Term 12 (EK1200)^Term 3 (EL6001)">
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 0"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 1" Size="8" OffsA="8"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 10" Size="8" OffsA="80"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 11" Size="8" OffsA="88"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 12" Size="8" OffsA="96"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 13" Size="8" OffsA="104"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 14" Size="8" OffsA="112"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 15" Size="8" OffsA="120"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 16" Size="8" OffsA="128"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 17" Size="8" OffsA="136"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 18" Size="8" OffsA="144"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 19" Size="8" OffsA="152"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 2" Size="8" OffsA="16"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 20" Size="8" OffsA="160"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 21" Size="8" OffsA="168"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 3" Size="8" OffsA="24"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 4" Size="8" OffsA="32"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 5" Size="8" OffsA="40"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 6" Size="8" OffsA="48"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 7" Size="8" OffsA="56"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 8" Size="8" OffsA="64"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^D" VarB="COM Inputs^Data In 9" Size="8" OffsA="72"/>
+				<Link VarA="PlcTask Inputs^GVL.EL6_22Bin_PC1^Status" VarB="COM Inputs^Status"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^Ctrl" VarB="COM Outputs^Ctrl"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 0"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 1" Size="8" OffsA="8"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 10" Size="8" OffsA="80"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 11" Size="8" OffsA="88"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 12" Size="8" OffsA="96"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 13" Size="8" OffsA="104"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 14" Size="8" OffsA="112"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 15" Size="8" OffsA="120"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 16" Size="8" OffsA="128"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 17" Size="8" OffsA="136"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 18" Size="8" OffsA="144"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 19" Size="8" OffsA="152"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 2" Size="8" OffsA="16"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 20" Size="8" OffsA="160"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 21" Size="8" OffsA="168"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 3" Size="8" OffsA="24"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 4" Size="8" OffsA="32"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 5" Size="8" OffsA="40"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 6" Size="8" OffsA="48"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 7" Size="8" OffsA="56"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 8" Size="8" OffsA="64"/>
+				<Link VarA="PlcTask Outputs^GVL.EL6_22Bout_PC1^D" VarB="COM Outputs^Data Out 9" Size="8" OffsA="72"/>
+			</OwnerB>
 			<OwnerB Name="TIXC^CppElbowControl^CppElbowControl_Obj1 (CModule1)">
-				<Link VarA="PlcTask Inputs^MAIN.LL1" VarB="Outputs^LL1"/>
-				<Link VarA="PlcTask Inputs^MAIN.LL2" VarB="Outputs^LL2"/>
-				<Link VarA="PlcTask Inputs^MAIN.pos" VarB="Outputs^Pos"/>
-				<Link VarA="PlcTask Inputs^MAIN.tarpos" VarB="Outputs^TarPos"/>
+				<Link VarA="PlcTask Inputs^MAIN.m1v" VarB="Outputs^m1v"/>
+				<Link VarA="PlcTask Inputs^MAIN.m2v" VarB="Outputs^m2v"/>
+				<Link VarA="PlcTask Inputs^MAIN.rad" VarB="Outputs^rad"/>
+				<Link VarA="PlcTask Inputs^MAIN.tarrad" VarB="Outputs^tarrad"/>
+				<Link VarA="PlcTask Outputs^GVL.JIAODU" VarB="Inputs^Angle"/>
 				<Link VarA="PlcTask Outputs^MAIN.t" VarB="Inputs^PlcTimer"/>
 			</OwnerB>
 		</OwnerA>
