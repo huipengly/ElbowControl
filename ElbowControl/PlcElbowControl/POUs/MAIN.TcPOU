@@ -4,7 +4,7 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	t AT %Q*: REAL := 0;
-	tip : REAL := 0.01;
+	tip : REAL := 0.001;
 	tarrad AT %I* : REAL;
 	rad AT %I* : REAL;
 	m1v AT %I* : REAL;

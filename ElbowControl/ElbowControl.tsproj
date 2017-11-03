@@ -127,10 +127,6 @@
 							<Type>INT</Type>
 						</Var>
 						<Var>
-							<Name>MAIN.a0</Name>
-							<Type>INT</Type>
-						</Var>
-						<Var>
 							<Name>MAIN.a1</Name>
 							<Type>INT</Type>
 						</Var>
@@ -148,6 +144,10 @@
 						</Var>
 						<Var>
 							<Name>MAIN.a5</Name>
+							<Type>INT</Type>
+						</Var>
+						<Var>
+							<Name>MAIN.a0</Name>
 							<Type>INT</Type>
 						</Var>
 						<Var>
@@ -3335,6 +3335,30 @@ Bit1: Value bigger/equal Limit2]]>
 					</Box>
 				</Box>
 				<EtherCAT/>
+			</Device>
+			<Device DevType="121" Id="6">
+				<Name>Device 6 (NOV-DP-RAM)</Name>
+				<AddressInfo>
+					<Pci>
+						<Address>-267386880</Address>
+						<Size>131072</Size>
+						<BusNo>4</BusNo>
+						<SlotNo>0</SlotNo>
+						<VendorId>5612</VendorId>
+						<DeviceId>20480</DeviceId>
+						<BaseAreaOffset>1048576</BaseAreaOffset>
+					</Pci>
+				</AddressInfo>
+				<Vars VarGrpType="1" InsertType="1">
+					<Name>Inputs</Name>
+				</Vars>
+				<Vars VarGrpType="2" InsertType="1">
+					<Name>Outputs</Name>
+				</Vars>
+				<Image Id="8" AddrType="5" ImageType="2">
+					<Name>Image</Name>
+				</Image>
+				<DpRam/>
 			</Device>
 		</Io>
 	</Project>
