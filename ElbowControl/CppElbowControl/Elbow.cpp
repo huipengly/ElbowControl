@@ -41,18 +41,36 @@ void Elbow::SetMuscleRelative(float r1, float r2)
 	m1 += r1;
 	m2 += r2;
 
-	if (m1 > 5)
+	//if (m1 > 5)
+	//{
+	//	m1 = 5;
+	//}
+	//if (m1 < 0)
+	//{
+	//	m1 = 0;
+	//}
+
+	//if (m2 > 5)
+	//{
+	//	m2 = 5;
+	//}
+	//if (m2 < 0)
+	//{
+	//	m2 = 0;
+	//}
+
+	if (m1 > 10)
 	{
-		m1 = 5;
+		m1 = 10;
 	}
 	if (m1 < 0)
 	{
 		m1 = 0;
 	}
 
-	if (m2 > 5)
+	if (m2 > 10)
 	{
-		m2 = 5;
+		m2 = 10;
 	}
 	if (m2 < 0)
 	{
@@ -62,21 +80,39 @@ void Elbow::SetMuscleRelative(float r1, float r2)
 
 void Elbow::SetMuscleAboslute(float a1, float a2)
 {
-	m1 = 4 - a1;
+	m1 = (5.0/6.0)*5.5 - a1;
 	m2 = a2;
 
-	if (m1 > 5)
+	//if (m1 > 5)
+	//{
+	//	m1 = 5;
+	//}
+	//if (m1 < 0)
+	//{
+	//	m1 = 0;
+	//}
+
+	//if (m2 > 5)
+	//{
+	//	m2 = 5;
+	//}
+	//if (m2 < 0)
+	//{
+	//	m2 = 0;
+	//}
+
+	if (m1 > 10)
 	{
-		m1 = 5;
+		m1 = 10;
 	}
 	if (m1 < 0)
 	{
 		m1 = 0;
 	}
 
-	if (m2 > 5)
+	if (m2 > 10)
 	{
-		m2 = 5;
+		m2 = 10;
 	}
 	if (m2 < 0)
 	{

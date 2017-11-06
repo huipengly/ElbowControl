@@ -19,6 +19,8 @@ VAR
 	a5 AT %Q* : INT;
     N_save: INT := 1;
     ERRORCODE: INT := 0;
+	
+	v1 AT %I* : INT;
 END_VAR
 ]]></Declaration>
     <Implementation>
@@ -28,6 +30,18 @@ tarrad;
 err := tarrad - rad;
 m1v;
 m2v;
+
+(*IF  DATA[N_save].g=DATA[N_save].h THEN
+		DATA[N_save].p1:=v1;
+		DATA[N_save].g:=NOT DATA[N_save].g ;
+		N_save:=N_save+1;
+		IF  N_save>200 THEN
+			N_save:=1;
+		END_IF
+ELSE
+		ERRORCODE:=1;
+END_IF*)
+
 
 IF  DATA[N_save].g=DATA[N_save].h THEN
 		DATA[N_save].p1:=tarrad;
