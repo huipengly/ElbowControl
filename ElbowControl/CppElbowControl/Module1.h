@@ -64,7 +64,7 @@ protected:
 	PID_Position PID4Elbow;
 	Elbow elbow;
 
-	float SetPosition;	//角度给定值
-	PID_Position PID4Cylinder;
-	Cylinder cylinder;
+	//float SetPosition;	//角度给定值
+	//PID_Position PID4Cylinder;
+	//Cylinder cylinder;
 };
