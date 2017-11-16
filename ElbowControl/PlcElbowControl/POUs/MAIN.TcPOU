@@ -24,7 +24,7 @@ VAR
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[//t := t + tip;
+      <ST><![CDATA[t := t + tip;
 rad;
 tarrad;
 err := tarrad - rad;

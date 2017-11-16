@@ -192,9 +192,9 @@ HRESULT CModule1::CycleUpdate(ITcTask* ipTask, ITcUnknown* ipCaller, ULONG_PTR c
 		//int bb = 0;
 		//bb = add(a, b);
 
-		SetRad = (30.0 / 180.0 * Pi);
+		//SetRad = (30.0 / 180.0 * Pi);
 		//SetRad = static_cast<float>(0.48 * sin_(2 * Pi*0.1*(timer - 2) + 1.5*Pi) + 0.48);
-		//SetRad = static_cast<float>(0.40 * sin_(2 * Pi*0.05*(timer - 2) + 1.5*Pi) + 0.48);
+		SetRad = static_cast<float>(0.40 * sin_(2 * Pi*0.05*(timer - 2) + 1.5*Pi) + 0.48);
 		//SetRad = static_cast<float>(0.4 * sin_(2*Pi*0.05*(timer - 2)) + 0.48);
 
 		float relative = PID4Elbow.pid_control(SetRad, elbow.ShowRad());
@@ -233,6 +233,7 @@ void CModule1::UpdateOutputs()
 	//µçÑ¹×ª»»Îª£¨0-10V£©->£¨0-32767£©
 	m_Outputs.m1Int = static_cast<int>(elbow.ShowM1() / 10 * 32767);
 	m_Outputs.m2Int = static_cast<int>(elbow.ShowM2() / 10 * 32767);
+	//m_Outputs.m2Int = static_cast<int>(1.0 / 10 * 32767);
 
 	m_Outputs.rad = elbow.ShowRad();
 	m_Outputs.tarrad = SetRad;

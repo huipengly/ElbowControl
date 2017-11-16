@@ -1233,28 +1233,34 @@
 					<Name>Term 1 (EK1200)</Name>
 					<ImageId>1004</ImageId>
 					<EtherCAT PdiType="#x0100" CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x04b02c52" RevisionNo="#x00001388" InfoDataState="false" PortPhys="49" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EK1200-5000 EtherCAT Power supply (2A E-Bus)" Desc="EK1200" PortABoxInfo="#x00ffffff"/>
-					<Box BoxType="9099" Id="3">
-						<Name>Term 3 (EL2502)</Name>
+					<Box BoxType="9099" Id="14">
+						<Name>Term 14 (EL2502)</Name>
 						<ImageId>1005</ImageId>
-						<EtherCAT SlaveType="2" PdiType="#x0005" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x09c63052" RevisionNo="#x001a0000" InfoDataAddr="true" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL2502 2K. PWM Ausgang, 24V" Desc="EL2502" PortABoxInfo="#x01000002">
-							<SyncMan>001080002600010001000000000000008000001026010000</SyncMan>
-							<SyncMan>801080002200010002000000000000008000801022010000</SyncMan>
+						<EtherCAT SlaveType="2" PdiType="#x0005" MboxDataLinkLayer="true" StateMBoxPolling="true" CycleMBoxPollingTime="0" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x09c63052" RevisionNo="#x00150000" InfoDataAddr="true" TimeoutMailbox2="2000" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL2502 2Ch. PWM output, 24V" Desc="EL2502" PortABoxInfo="#x01000002">
+							<SyncMan>001080002600010001000000800080008000001026010000</SyncMan>
+							<SyncMan>801080002200010002000000800080008000801022010000</SyncMan>
 							<SyncMan>001104002400010003000000000000000400001124010000</SyncMan>
 							<SyncMan>801100000000000004000000000000000000801100000000</SyncMan>
 							<Fmmu>0000000000000000001100020100000001000000000000000000000000000000</Fmmu>
 							<Fmmu>00000000000000000d0800010100000003000000000000000000000000000000</Fmmu>
 							<BootStrapData>0010f400f410f400</BootStrapData>
 							<Pdo Name="PWM Outputs Channel 1" Index="#x1600" InOut="1" Flags="#x0010" SyncMan="2">
+								<ExcludePdo>#x1602</ExcludePdo>
+								<ExcludePdo>#x1604</ExcludePdo>
 								<Entry Name="PWM output" Index="#x7000" Sub="#x11">
 									<Type>UINT</Type>
 								</Entry>
 							</Pdo>
 							<Pdo Name="PWM Outputs Channel 2" Index="#x1601" InOut="1" Flags="#x0010" SyncMan="2">
+								<ExcludePdo>#x1603</ExcludePdo>
+								<ExcludePdo>#x1605</ExcludePdo>
 								<Entry Name="PWM output" Index="#x7010" Sub="#x11">
 									<Type>UINT</Type>
 								</Entry>
 							</Pdo>
 							<Pdo Name="PWM Outputs Channel 1" Index="#x1602" InOut="1" Flags="#x0010">
+								<ExcludePdo>#x1600</ExcludePdo>
+								<ExcludePdo>#x1604</ExcludePdo>
 								<Entry Name="PWM output" Index="#x7000" Sub="#x11">
 									<Type>UINT</Type>
 								</Entry>
@@ -1263,6 +1269,8 @@
 								</Entry>
 							</Pdo>
 							<Pdo Name="PWM Outputs Channel 2" Index="#x1603" InOut="1" Flags="#x0010">
+								<ExcludePdo>#x1601</ExcludePdo>
+								<ExcludePdo>#x1605</ExcludePdo>
 								<Entry Name="PWM output" Index="#x7010" Sub="#x11">
 									<Type>UINT</Type>
 								</Entry>
@@ -1271,6 +1279,8 @@
 								</Entry>
 							</Pdo>
 							<Pdo Name="PWM Outputs Channel 1" Index="#x1604" InOut="1" Flags="#x0010">
+								<ExcludePdo>#x1600</ExcludePdo>
+								<ExcludePdo>#x1602</ExcludePdo>
 								<Entry Name="PWM output" Index="#x7000" Sub="#x11">
 									<Type>UINT</Type>
 								</Entry>
@@ -1279,6 +1289,8 @@
 								</Entry>
 							</Pdo>
 							<Pdo Name="PWM Outputs Channel 2" Index="#x1605" InOut="1" Flags="#x0010">
+								<ExcludePdo>#x1601</ExcludePdo>
+								<ExcludePdo>#x1603</ExcludePdo>
 								<Entry Name="PWM output" Index="#x7010" Sub="#x11">
 									<Type>UINT</Type>
 								</Entry>
@@ -1286,12 +1298,14 @@
 									<Type>UDINT</Type>
 								</Entry>
 							</Pdo>
+							<CoeProfile ProfileNo="16389001"/>
+							<CoeProfile ProfileNo="16389001"/>
 						</EtherCAT>
 					</Box>
 					<Box BoxType="9101" Id="4">
 						<Name>Term 4 (EL6001)</Name>
 						<ImageId>1006</ImageId>
-						<EtherCAT SlaveType="7" PdiType="#x0005" MboxDataLinkLayer="true" CycleMBoxPolling="true" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x17713052" RevisionNo="#x00140000" InfoDataAddr="true" TimeoutMailbox2="2000" CheckRevisionNoType="3" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL6001 Interface (RS232)" Desc="EL6001" PortABoxInfo="#x01000003">
+						<EtherCAT SlaveType="7" PdiType="#x0005" MboxDataLinkLayer="true" CycleMBoxPolling="true" CoeType="7" FoeType="1" VendorId="#x00000002" ProductCode="#x17713052" RevisionNo="#x00140000" InfoDataAddr="true" TimeoutMailbox2="2000" CheckRevisionNoType="3" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL6001 Interface (RS232)" Desc="EL6001" PortABoxInfo="#x0100000e">
 							<SyncMan>0018f6002600010001000000f600f600f600001826010000</SyncMan>
 							<SyncMan>f618f6002200010002000000f600f600f600f61822010000</SyncMan>
 							<SyncMan>001018002400010003000000000000001800001024010000</SyncMan>
