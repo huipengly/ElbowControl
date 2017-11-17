@@ -1,8 +1,17 @@
 #include "Elbow.h"
 
 
-Elbow::Elbow() : Pi(3.14159f), m1(0), m2(0), angle(0), rad(0)
+Elbow::Elbow() : pi(3.14159f)
 {
+	m1 = 0;
+	m2 = 0;
+	angle = 0;
+	rad = 0;
+	float kp = 1;
+	float ki = 7.5;
+	float kd = 0;
+	float t = 0.001;
+	PID4Elbow.set(kp, ki, kd, t);
 }
 
 
@@ -33,7 +42,7 @@ float Elbow::ShowM2()
 void Elbow::GetAngle(float InputAngle)
 {
 	angle = InputAngle;
-	rad = angle / 180 * Pi;
+	rad = angle / 180 * pi;
 }
 
 void Elbow::SetMuscleRelative(float r1, float r2)
@@ -118,4 +127,15 @@ void Elbow::SetMuscleAboslute(float a1, float a2)
 	//{
 	//	m2 = 0;
 	//}
+}
+
+void Elbow::SetTargetRad(float tar)
+{
+	tarRad = tar;
+}
+
+void Elbow::run()
+{
+	pressure = PID4Elbow.pid_control(tarRad, rad);
+	SetMuscleAboslute(pressure, pressure);
 }

@@ -2,10 +2,11 @@
 // Module1.h
 #pragma once
 
-#include "CppElbowControlInterfaces.h"
 #include "PID_Position.h"
 #include "Elbow.h"
-#include "Cylinder.h"
+#pragma hdrstop
+
+#include "CppElbowControlInterfaces.h"
 
 class CModule1 
 	: public ITComObject
@@ -61,10 +62,6 @@ protected:
 	//float radian;	//编码器角度转换弧度值
 	float SetRad;	//弧度给定值
 	float SetAngle;	//角度给定值
-	PID_Position PID4Elbow;
+	//PID_Position PID4Elbow;
 	Elbow elbow;
-
-	//float SetPosition;	//角度给定值
-	//PID_Position PID4Cylinder;
-	//Cylinder cylinder;
 };
