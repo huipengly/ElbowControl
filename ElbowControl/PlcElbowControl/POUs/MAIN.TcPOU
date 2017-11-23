@@ -25,8 +25,8 @@ END_VAR
 ]]></Declaration>
     <Implementation>
       <ST><![CDATA[t := t + tip;
-rad;
-tarrad;
+rad := rad*180/3.14;
+tarrad := tarrad*180/3.14;
 err := tarrad - rad;
 m1v;
 m2v;

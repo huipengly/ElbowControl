@@ -175,14 +175,41 @@ HRESULT CModule1::CycleUpdate(ITcTask* ipTask, ITcUnknown* ipCaller, ULONG_PTR c
 
 	// TODO: Replace the sample with your cyclic code
 
-	UpdateInputs();
+	/*
+	double pos[3];
+	double R[9];
+	double r[4] = { 60, 60, 60 }; timer = m_Inputs.PlcTimer;
 	if (timer > 2)
 	{
-		SetRad = static_cast<float>(0.40 * sin_(2 * Pi*0.05*(timer - 2) + 1.5*Pi) + 0.48);
+		kinematics_forward(pos, R, r);
+	}
+    */
+
+	double Ax = -26.5;
+	double Ay = 589.763;
+	double Aphi = 180;
+	double  Ajoint[6] = { 0 };
+	//kinematics_inverse(Ax, Ay, Aphi, Ajoint);
+
+	double aa = Ajoint[1];
+	
+	
+	UpdateInputs();
+
+	if (timer > 2)
+	{
+		
+		kinematics_inverse(Ax, Ay, Aphi, Ajoint);
+
+		double aa = Ajoint[1];
+		
+		//SetRad = static_cast<float>(0.40 * sin_(2 * Pi*0.05*(timer - 2) + 1.5*Pi) + 0.48);
+		SetRad = aa/180.0*Pi;
 
 		elbow.SetTargetRad(SetRad);
 
 		elbow.run();
+	
 
 		UpdateOutputs();
 	}

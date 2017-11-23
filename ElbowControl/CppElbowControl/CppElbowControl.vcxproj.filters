@@ -51,12 +51,12 @@
     <ClInclude Include="Cylinder.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="kinematics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TcPch.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CppElbowControlClassFactory.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="CppElbowControlCtrl.cpp">
@@ -76,6 +76,12 @@
     </ClCompile>
     <ClCompile Include="Elbow.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kinematics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CppElbowControlClassFactory.cpp">
+      <Filter>Header Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -4,6 +4,7 @@
 
 #include "PID_Position.h"
 #include "Elbow.h"
+#include "kinematics.h"
 #pragma hdrstop
 
 #include "CppElbowControlInterfaces.h"
